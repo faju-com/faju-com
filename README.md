@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ...laravel
 - 💞️ I’m looking to collaborate on ...OOP
 - 📫 How to reach me ...fahadumar72@gmail.com
+- I AM  WEB DEVELOPER
 - I AM SLOW LEARNER
 
 <!---
